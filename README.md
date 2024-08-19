@@ -1,1 +1,2 @@
 # Digit-Recognizer
+The MNIST dataset, a classic in the field of computer vision, serves as a benchmark for various classification algorithms. Since its release in 1999, it has been extensively used to test and compare machine learning models. This project aims to build and optimize a deep learning model capable of recognizing handwritten digits using the MNIST dataset. I explored and implemented two different architectures: a custom Convolutional Neural Network (CNN) and a transfer learning approach using ResNet-50.
